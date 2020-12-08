@@ -26,7 +26,7 @@ The minimum specification should be as follows:
 
 *These Figures are recommended minimums only
 
-**Disk 2 will be used to store O365 Metadata for each tenant. The Capacity requirued wqill be based on the total protected capacity
+**Disk 2 will be used to store O365 Metadata for each tenant. The Capacity required wqill be based on the total protected capacity
 
 
 Using these  numbers we can estimate the following consumption and requirements :
