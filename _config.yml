@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Veeam Backup for Microsoft Office 365 Best Practices
+title: Veeam Cloud Service Providers  & Veeam Backup for Microsoft Office 365
 email: veeam_team@veeam.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Best practice from the field for Veeam Backup for Microsoft Office 365.
+  Best practice from the field for Veeam Backup for Microsoft Office 365 in the Service Provider Industry .
 baseurl: "/" # the subpath of your site, e.g. /blog
 #url: "https://vbo.veeambp.com" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
