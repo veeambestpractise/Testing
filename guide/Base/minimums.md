@@ -8,7 +8,7 @@ has_toc: false
 
 # This section covers the minimum specification that should be in place.
 
-## We need three services at a minimum to start to use Veeam Backup for Office 365:  
+## You will need three server roles at a minimum to start to use Veeam Backup for Office 365:  
 
 * Cloud Connect Server/VBO Server
 * Cloud Gateway
@@ -31,7 +31,7 @@ The minimum specification should be as follows:
 
 Using the above numbers we can estimate the following consumption:
 
-|Num Of Users | Est.Num of Objects| Proxy CPU Req| Proxy Ram specified|
+|Number of Users | Estimated Number of Objects| Proxy CPU Requirement| Proxy Ram Specified|
 ---:|:---:|:---:|:---:|
 | 750 | 1943  | 4 | 8 |
 |6000| 15040|8|32|

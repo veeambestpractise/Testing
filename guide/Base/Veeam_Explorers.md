@@ -21,8 +21,8 @@ It is recommended that you download or supply to the tenent a copy of the Veeam 
 The extracted files will also contain the VBO application (there is no requirement for the tenent to use this) plus the following explorers for:
 
 * Explorer for Exchange
-
 * Explorer for Sharepoint
+* Explorer for OneDrive
 
 It is essential that these be at the same version number as the provisioned files in the Service Provider installation. if the versions differ there will be failures on restores the tenent attempts due to software inconsistancy.  
 

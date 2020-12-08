@@ -7,7 +7,7 @@ has_toc: false
 ---
 # Self Service and the Veeam Backup and Replication Server
 
-Required Software for each tenent to use this service
+Required Software for each tenant to use this service
 
 Each Tenant will require access to two pieces of Veeam software to perform self-service restore operations. 
 1.	A Veeam Backup and Replication Server 
