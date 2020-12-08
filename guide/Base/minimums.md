@@ -2,7 +2,7 @@
 title: Minimums
 parent: Installation 
 has_children: true
-nav_order: 125
+nav_order: 130
 has_toc: false
 ---
 

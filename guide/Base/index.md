@@ -5,10 +5,10 @@ nav_order: 200
 has_toc: true
 ---
 
-# Staring Point
+# Topic Base
 
 This section covers topics which are relevant when building the designed solution and configuring
-Veeam Backup for Microsoft Office 365 infrastructure components, such as proxies and repositories.
+Veeam Backup for Microsoft Office 365 infrastructure components in Service Provioder infrastructure, such as proxies and repositories.
 
 For general information about these topics please check the
 [Deployment](https://helpcenter.veeam.com/docs/vbo365/guide/vbo_deployment.html) and read about the

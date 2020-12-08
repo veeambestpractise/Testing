@@ -1,7 +1,7 @@
 ---
 title: Tenants
 parent:  Installation
-nav_order: 115
+nav_order: 110
 has_children: true
 has_toc: false
 ---
