@@ -9,7 +9,7 @@ nav_order: 010
 ### (Architectural Configuration Best Practise) 
 
 
-This document is intended to provide  Veeam Cloud and Service Provider (VCSP) with detailed and supporable architecture for the Veeam Backup for Office 365 product.  
+This document is intended to provide  Veeam Cloud and Service Provider (VCSP) with detailed and supportable architecture for the Veeam Backup for Office 365 product.  
 
 They include considerations that should be investigated for the efficient deployment and operation of this product for VCSPs that may vary from a typical end-customer.  This informiton will provide the best ability to scale up and out with Veeam VBO.
 
