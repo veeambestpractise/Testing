@@ -1,6 +1,6 @@
 ---
 title: Proxy & Repository Server
-parent: Build & Configure
+parent: Starting point
 has_children: true
 nav_order: 200
 has_toc: false

@@ -1,6 +1,6 @@
 ---
 title: VBO Server
-parent: Build & Configure
+parent:  Starting point
 nav_order: 100
 has_children: true
 has_toc: false

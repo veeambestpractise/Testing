@@ -1,6 +1,6 @@
 ---
 title: More Details
-grand_parent: Build & Configure
+grand_parent: Starting point
 parent: Proxy & Repository Server
 nav_order: 100
 ---
