@@ -5,9 +5,9 @@ permalink: /
 nav_order: 010
 ---
 
-# Best Practice Guide for Veeam Backup for Microsoft Office 365
+# Best Practice Guide for Veeam Backup for Microsoft Office 365 for Veeam Cloud Service Providers
 
-Welcome to the Veeam Backup for Microsoft Office 365 Best Practices.
+Welcome to the Veeam Backup for Microsoft Office 365 Best Practices (VCSP Edition).
 
 This guide is intended to provide best pracices for Veeam Backup for Microsoft Office 365. It is not 
 meant as a full documentation or detailed explanation of features. Please refer to the 

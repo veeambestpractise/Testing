@@ -1,11 +1,11 @@
 ---
-title: Build & Configure
+title: Starting point
 has_children: true
 nav_order: 200
 has_toc: false
 ---
 
-# Build & Configure
+# Staring Point
 
 This section covers topics which are relevant when building the designed solution and configuring
 Veeam Backup for Microsoft Office 365 infrastructure components, such as proxies and repositories.
