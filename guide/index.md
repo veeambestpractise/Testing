@@ -11,7 +11,7 @@ nav_order: 010
 
 This document is intended to provide  Veeam Cloud Service Providers (VCSP) with detailed and supportable architecture for the Veeam Backup for Office 365 product.  
 
-Included are considerations that should be investigated for the efficient deployment and operation of this product for VCSPs that may vary from a typical end-customer.  This information will provide the best ability to scale up and out with Veeam VBO.
+Included are considerations that should be investigated for the efficient deployment and operation of this product for VCSPs that may vary from a typical end-user/customer.  This information will provide the best ability to scale up and out with Veeam VBO.
 
 The information provided can also help provide some of the highest levels of performance, as well as advice on the ability to monitor and report on the health of the infrastructure.  
 
