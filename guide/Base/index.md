@@ -1,5 +1,5 @@
 ---
-title: Starting point
+title: Installation
 has_children: true
 nav_order: 200
 has_toc: true
