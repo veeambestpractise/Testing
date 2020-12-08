@@ -1,0 +1,22 @@
+image: ruby:2.7
+
+cache:
+  paths:
+  - vendor/
+
+before_script:
+  - gem install bundler
+  - bundle config set path 'vendor'
+  - bundle install
+
+pages:  
+  script:
+    - 'sed -i "s|^baseurl:.*$|baseurl: \"${JEKYLL_BASEURL}\"|g" _config.yml'
+    - 'sed -i "s|^url:.*$|url: \"${JEKYLL_URL}\"|g" _config.yml'
+    - 'cat _config.yml'
+    - bundle exec jekyll build -d public
+  artifacts:
+    paths:
+      - public
+  rules:
+    - if: '$CI_COMMIT_BRANCH == "dev"'
