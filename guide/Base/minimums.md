@@ -29,7 +29,7 @@ The minimum specification should be as follows:
 **Disk 2 will be used to store O365 Metadata for each tenant. The Capacity requirued wqill be based on the total protected capacity
 
 
-Using the above numbers we can estimate the following consumption:
+Using these  numbers we can estimate the following consumption and requirements :
 
 |Number of Users | Estimated Number of Objects| Proxy CPU Requirement| Proxy Ram Specified|
 ---:|:---:|:---:|:---:|
