@@ -15,7 +15,7 @@ Included are considerations that should be investigated for the efficient deploy
 
 The information provided can also help provide some of the highest levels of performance, as well as advice on the ability to monitor and report on the health of the infrastructure.  
 
-Everyone has an aim to provide the highest levels of service in a multi-tenant environment, while providing non-complex end-user self-service restore capabilities.  The information provided here can help support the Cloud Service Provider industry with a central location to look for help and advice on how others use and configure Veeam Backup for Office 365 succesfully avoiding the pitfalls otherds haave already encountered.
+Everyone has an aim to provide the highest levels of service in a multi-tenant environment, while providing non-complex end-user self-service restore capabilities.  The information provided here can help support the Cloud Service Provider industry with a central location to look for help and advice on how others use and configure Veeam Backup for Office 365 succesfully avoiding the pitfalls others have already encountered.
 
 This document is created to provide information from VCSP sources in your industry, how they use and configure VBO365 and essentials tips to get the mpost from the implementaiton in a given scenario . It is not intended to be the absolute solution as each infrastructure is different, it will provider information on specific requirements or segments of the  configuration that will help many organisations accomplish more. 
 
