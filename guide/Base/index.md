@@ -2,7 +2,7 @@
 title: Starting point
 has_children: true
 nav_order: 200
-has_toc: false
+has_toc: true
 ---
 
 # Staring Point
