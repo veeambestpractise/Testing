@@ -38,4 +38,8 @@ Optionally, install a 64 bit version of Microsoft Outlook which provides for the
 This consideration is further detailed here:  [Considerations](https://helpcenter.veeam.com/docs/vbo365/guide/vex_considerations.html?ver=40)
 
 
-[Full link to the Veeam Helpguide on Tenants](https://helpcenter.veeam.com/archive/vbo365/40/guide/vbo_baas_tenant.html)
+  
+# Links
+--------
+
+[Veeam help center for Tenants](https://helpcenter.veeam.com/archive/vbo365/40/guide/vbo_baas_tenant.html)

@@ -24,8 +24,12 @@ The extracted files will also contain the VBO application (there is no requireme
 
 * Explorer for Sharepoint
 
-It is essential that these be at the same version number as the provisioned files in the Service Provider installation. if the versions differ there will be failures on restores the tenent attempts due to software inconsistancy.
+It is essential that these be at the same version number as the provisioned files in the Service Provider installation. if the versions differ there will be failures on restores the tenent attempts due to software inconsistancy.  
 
 
+![Vex_Version](./images/vex_ver.png)  
+
+* The first number denotes the compatability with version 10.0.0.4451 of Veeam Backup and Replication
+* The second number 519 denotes the version number of the installed VBO package
 
 **Advise the tenent not to attempt to use the VBO application, it will avoid issues later**
