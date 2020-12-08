@@ -18,7 +18,7 @@ Ensure the versions you offer to tenents is at the same version revision as the 
 
 It is recommended that you download or supply to the tenent a copy of the Veeam Exporer Software installation files.
 
-The extracted files will also contain the VBO application (there is no requirement for the tenent to use this) plus the following explorer for:
+The extracted files will also contain the VBO application (there is no requirement for the tenent to use this) plus the following explorers for:
 
 * Explorer for Exchange
 
